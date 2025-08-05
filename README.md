@@ -51,5 +51,4 @@
 <h3 align=center> Streak Status </h3>
 <p align = center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neshanpramuditha&" alt="neshanpramuditha" /></p>
 
-<h3 align="center">Support</h3>
-<p align = center><a href="https://www.buymeacoffee.com/buymeacoffee.com/neshan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/neshan" /></a></p><br><br>
+
