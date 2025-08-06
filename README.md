@@ -48,7 +48,11 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neshanpramuditha&theme=react&layout=compact" />
 </p>
 
-<h3 align=center> Streak Status </h3>
-<p align = center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neshanpramuditha&" alt="neshanpramuditha" /></p>
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neshanpramuditha&theme=github_dark)
+  
+ </div>
+
 
 
