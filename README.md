@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, MySQL**
 
-- 📫 How to reach me **neshanpppramuditha@gmail.com**
+- 📫 How to reach me **neshanpramu2@gmail.com**
 
 - ⚡ Fun fact **Call me as "Neshan"**
 
