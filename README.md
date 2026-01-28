@@ -18,13 +18,13 @@
 
 - 🔭 I’m currently working on [my portfolio (HTML,CSS & JavaScript).](https://github.com/neshanpramuditha/E-Technology-SL.git)
 
-- 🧩 I’m currently learning **Modern DevOps Practices, Blockchain Technology and Modern Web Development.**
+- 🧩 I’m currently learning **React, Docker, AI, and Modern Web Development.**
 
 - 👯 I’m looking to collaborate on [Student projects and web-based platforms that solve real-world problems.](https://github.com/neshanpramuditha/recycle-hub-viva.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/neshanpramuditha/recycle-hub-viva.git](https://github.com/neshanpramuditha/recycle-hub-viva.git)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C, MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL**
 
 - 📫 How to reach me **neshanpramu2@gmail.com**
 
