@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **MEN, HTML, CSS, JavaScript, PHP, MySQL**
 
-- 📫 How to reach me **neshanpramu2@gmail.com**
+- 📫 How to reach me **neshanpramu2@gmail.com | 071 245 21 35**
 
 - ⚡ Fun fact **Call me "Neshan"**
 
