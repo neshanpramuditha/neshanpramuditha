@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on Student projects and web-based platforms that solve real-world problems.
 
-- 👨‍💻 All of my projects are available at [https://github.com/neshanpramuditha/recycle-hub-viva.git](https://github.com/neshanpramuditha?tab=repositories)
+- 👨‍💻 All of my projects are available at [repositories.](https://github.com/neshanpramuditha?tab=repositories)
 
 - 💬 Ask me about **MEN, HTML, CSS, JavaScript, PHP, MySQL**
 
