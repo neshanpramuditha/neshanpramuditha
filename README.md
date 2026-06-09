@@ -16,19 +16,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=890&height=100&lines=+Future+Ready+Software+Developer+|+ICT+Enthusiast+and+Collaborator"></a>
 </p>
 
-- 🔭 I’m currently working on [my portfolio (HTML,CSS & JavaScript).](https://github.com/neshanpramuditha/E-Technology-SL.git)
+- 🔭 I'm currently seeking opportunity for [software development.](https://drive.google.com/file/d/1SWEyJVVjXz5KVCa76TetDDVVaBehgdO6/view?usp=drive_link)
 
-- 🧩 I’m currently learning **React, Docker, AI, and Modern Web Development.**
+- 🧩 I’m currently learning **Docker, AI/ML, QA and Modern Web Development.**
 
-- 👯 I’m looking to collaborate on [Student projects and web-based platforms that solve real-world problems.](https://github.com/neshanpramuditha/recycle-hub-viva.git)
+- 👯 I’m looking to collaborate on Student projects and web-based platforms that solve real-world problems.
 
 - 👨‍💻 All of my projects are available at [https://github.com/neshanpramuditha/recycle-hub-viva.git](https://github.com/neshanpramuditha/recycle-hub-viva.git)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL**
+- 💬 Ask me about **MEN, HTML, CSS, JavaScript, PHP, MySQL**
 
 - 📫 How to reach me **neshanpramu2@gmail.com**
 
-- ⚡ Fun fact **Call me as "Neshan"**
+- ⚡ Fun fact **Call me "Neshan"**
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
